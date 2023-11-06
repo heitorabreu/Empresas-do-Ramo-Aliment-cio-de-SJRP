@@ -1,1 +1,1 @@
-# Empresas-do-Ramo-Aliment-cio-de-SJRP
+Este é um projeto desenvolvido no Grupo de Estudos em Estatística e Qualidade (GEQ) da UNESP de São José do Rio Preto. O intuito deste trabalho é criar uma base de dados sobre as empresas do ramo alimentício que atuam na cidade de São José do Rio Preto.
